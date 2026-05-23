@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Cowboy Tears Don’t Show
+
+This log tracks the cryptographic history and versioning for the song **Cowboy Tears Don’t Show** (cowboy-tears-dont-show).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-23T14:57:49.089066 | `v1` | `9acd3110d9f130c6bf32e3da77b074ac343f49dff0af275aa4d906e6ab633663` | `8c0eaef0968e09325690a24b1212292b2254aa53b1fdd99dc214736793481380` | `2026-05-23_cowboy-tears-dont-show-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
