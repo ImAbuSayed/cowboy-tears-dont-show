@@ -15,7 +15,7 @@
 | **Written On** | May 19, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/cowboy-tears-dont-show/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Obtain a Music License for Cowboy Tears Don’t Show](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/cowboy-tears-dont-show/) |
+| **Get License** | [Official Music Licensing for Cowboy Tears Don’t Show](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/cowboy-tears-dont-show/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> I got a pocket full of moonlight just for you
+> And a quiet little corner where the shadows fall in two
+> So come a little closer to the firelight glow
+> 'Cause underneath the stetson, cowboy tears don't show
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
